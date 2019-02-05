@@ -1,5 +1,5 @@
 # foodData
-[Data Science] Analysis of a JSON database containing USDA nutrition information for over 6600 different food items.
+[Data Science] Analysis of a poorly-organized JSON database containing USDA nutrition information for over 6600 different food items.
 
 This project seeks to import and munge a large JSON database into a useable dataframe object.  Tthe following project goals are addressed:
 
